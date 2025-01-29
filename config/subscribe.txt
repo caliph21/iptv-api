@@ -1,21 +1,21 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://raw.github.com/iptv-org/iptv/gh-pages/countries/cn.m3u
-https://raw.github.com/iptv-org/iptv/master/streams/cn.m3u
-https://raw.github.com/suxuang/myIPTV/main/ipv6.m3u
-https://raw.github.com/kimwang1978/collect-tv-txt/main/merged_output.txt
-https://raw.github.com/Kimentanm/aptv/master/m3u/iptv.m3u
-https://raw.github.com/xzw832/cmys/main/S_CCTV.txt
-https://raw.github.com/xzw832/cmys/main/S_weishi.txt
-https://raw.github.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
-https://raw.github.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
-https://raw.github.com/yuanzl77/IPTV/main/live.m3u
-https://raw.github.com/yuanzl77/IPTV/master/live.txt
-https://raw.github.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-https://raw.github.com/vbskycn/iptv/master/tv/iptv6.txt
-https://raw.github.com/vbskycn/iptv/master/tv/iptv4.txt
-https://raw.github.com/vbskycn/iptv/master/tv/hd.txt
-https://raw.github.com/YueChan/Live/main/APTV.m3u
-https://raw.github.com/YanG-1989/m3u/main/Gather.m3u
-https://raw.github.com/zhumeng11/IPTV/main/IPTV.m3u
+https://cdn.gitmirror.com/gh/iptv-org/iptv/gh-pages/countries/cn.m3u
+https://cdn.gitmirror.com/gh/iptv-org/iptv/master/streams/cn.m3u
+https://cdn.gitmirror.com/gh/suxuang/myIPTV/main/ipv6.m3u
+https://cdn.gitmirror.com/gh/kimwang1978/collect-tv-txt/main/merged_output.txt
+https://cdn.gitmirror.com/gh/Kimentanm/aptv/master/m3u/iptv.m3u
+https://cdn.gitmirror.com/gh/xzw832/cmys/main/S_CCTV.txt
+https://cdn.gitmirror.com/gh/xzw832/cmys/main/S_weishi.txt
+https://cdn.gitmirror.com/gh/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
+https://cdn.gitmirror.com/gh/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
+https://cdn.gitmirror.com/gh/yuanzl77/IPTV/main/live.m3u
+https://cdn.gitmirror.com/gh/yuanzl77/IPTV/master/live.txt
+https://cdn.gitmirror.com/gh/fanmingming/live/main/tv/m3u/ipv6.m3u
+https://cdn.gitmirror.com/gh/vbskycn/iptv/master/tv/iptv6.txt
+https://cdn.gitmirror.com/gh/vbskycn/iptv/master/tv/iptv4.txt
+https://cdn.gitmirror.com/gh/vbskycn/iptv/master/tv/hd.txt
+https://cdn.gitmirror.com/gh/YueChan/Live/main/APTV.m3u
+https://cdn.gitmirror.com/gh/YanG-1989/m3u/main/Gather.m3u
+https://cdn.gitmirror.com/gh/zhumeng11/IPTV/main/IPTV.m3u
