@@ -2,18 +2,18 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
-https://migu.361181.com/
-https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
-http://live.shqsy.com/qstv.txt
-https://123.tv1288.xyz/sm2.txt
-https://xymm.ccwu.cc/
+# https://migu.361181.com/
+# https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+# http://live.shqsy.com/qstv.txt
+# https://123.tv1288.xyz/sm2.txt
+# https://xymm.ccwu.cc/
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 
-# https://gytv.iepose.cn
+https://gytv.iepose.cn
 # https://iptv-sources.131573.xyz/youhun.m3u
 
 [WHITELIST]
